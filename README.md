@@ -2,7 +2,7 @@
 
 Analyses footage of a 2-lane speed climbing race and extracts per-frame pose for both climbers, pixel-to-real-world height mapping despite the moving camera, and trimming to actual race time (start to button touch).
 
-![Uploading climbing_pose_example.png…]()
+<img width="1590" height="893" alt="climbing_pose_example" src="https://github.com/user-attachments/assets/dc91295e-1987-4a43-ba5c-1d02cdde9877" />
 
 ## Setup
 
