@@ -1,4 +1,4 @@
-# Speed climbing pose + performance pipeline
+# Speed climbing pose estimation and analysis pipeline for competition footage
 
 Analyses footage of a 2-lane speed climbing race: per-frame pose for both climbers
 (no identity swaps), pixel-to-real-world height mapping despite the moving camera,
